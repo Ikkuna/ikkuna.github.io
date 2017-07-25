@@ -11,6 +11,11 @@ nav .brand-logo {
   color: #444;
 }
 
+#download-button {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
 p {
   line-height: 2rem;
 }
