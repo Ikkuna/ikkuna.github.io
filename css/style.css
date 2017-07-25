@@ -17,6 +17,8 @@ nav .brand-logo {
   color: #fff;
 }
 
+.btn-large:hover:after{opacity:1;}
+
 p {
   line-height: 2rem;
 }
