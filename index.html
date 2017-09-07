@@ -41,9 +41,13 @@
         <br><br>
         <!-- Modal Structure -->
         <div id="modal1" class="modal">
-          <div class="modal-content">
+          <div class="modal-content brown-text">
             <h4>Modal Header</h4>
             <p>A bunch of text</p>
+            <form action="/" enctype="multipart/form-data" method="post">
+              <input type="file" name="upload" multiple>
+              <input type="submit" value="Upload">
+            </form>
           </div>
           <div class="modal-footer">
             <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
