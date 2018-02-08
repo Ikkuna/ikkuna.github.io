@@ -11,6 +11,10 @@ nav .brand-logo {
   color: #444;
 }
 
+.teal {
+  background-color: #545454 !important;
+}
+
 .btn-large {
   opacity: 0.5;
   filter: alpha(opacity=50);
@@ -24,7 +28,7 @@ p {
 }
 
 .button-collapse {
-  color: #26a69a;
+  color: #545454;
 }
 
 .parallax-container {
